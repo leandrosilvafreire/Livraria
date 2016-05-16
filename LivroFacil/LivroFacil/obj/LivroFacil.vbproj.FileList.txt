@@ -1,0 +1,10 @@
+bin\Debug\LivroFacil.exe
+bin\Debug\LivroFacil.pdb
+bin\Debug\LivroFacil.xml
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\LivroFacil.FrmLogin.resources
+obj\Debug\LivroFacil.Resources.resources
+obj\Debug\LivroFacil.vbproj.GenerateResource.Cache
+obj\Debug\LivroFacil.exe
+obj\Debug\LivroFacil.xml
+obj\Debug\LivroFacil.pdb
